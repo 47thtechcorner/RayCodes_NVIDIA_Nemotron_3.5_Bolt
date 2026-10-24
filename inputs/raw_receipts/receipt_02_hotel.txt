@@ -1,0 +1,9 @@
+---
+INVOICE: #DGH-2026-991
+MERCHANT: Downtown Grand Hotel & Suites
+DATES: Oct 21 - Oct 23, 2026 (2 Nights)
+CATEGORY: Lodging
+SUBTOTAL: $340.00
+CITY TAX: $38.00
+TOTAL CHARGED: $378.00 USD
+---

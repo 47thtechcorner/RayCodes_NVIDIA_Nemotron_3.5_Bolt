@@ -1,0 +1,8 @@
+---
+BILL: #CONF-REG-4401
+EVENT: Edge AI & Robotics Developer Summit
+DATE: 2026-10-23
+CATEGORY: Professional Development
+FEE: $250.00 USD
+STATUS: PAID IN FULL
+---

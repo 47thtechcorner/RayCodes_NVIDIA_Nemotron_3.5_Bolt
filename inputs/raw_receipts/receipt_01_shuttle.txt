@@ -1,0 +1,8 @@
+---
+RECEIPT: #SF-8492
+VENDOR: SFO Airport Electric Shuttle
+DATE: 2026-10-21
+CATEGORY: Transportation
+AMOUNT: $48.50 USD
+PAYMENT: Corporate Card
+---
